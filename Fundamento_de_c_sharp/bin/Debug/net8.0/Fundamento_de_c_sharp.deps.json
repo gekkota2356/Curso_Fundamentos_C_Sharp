@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fundamento_de_c_sharp/1.0.0": {
+        "runtime": {
+          "Fundamento_de_c_sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fundamento_de_c_sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
