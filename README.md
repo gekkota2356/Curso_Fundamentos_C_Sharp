@@ -235,3 +235,6 @@ finally
 }
 
 Evita que la aplicación finalice de manera inesperada ante fallos.
+
+Colaboracion con los alumnos del Club de Programacion 26-1
+-----
